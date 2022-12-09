@@ -1,2 +1,2 @@
 # Data-Analysis
-This is a Data Analysis done on a dataset containing information on the 'happiness' of a country.
+I use this repo to dump all my data analysis stuff.
